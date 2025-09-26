@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>WEB-BASED CALCULATOR</title>
+<script>
+function append(x)
+{
+a=document.getElementById("result").value;
+b=a+x;
+
+}
+function cal1()
+a=document.getElementById("result").value;
+
+</script>
+</head>
+</html>
